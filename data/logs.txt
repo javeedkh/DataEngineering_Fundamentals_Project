@@ -1,0 +1,8 @@
+INFO Application Started
+INFO User Login Successful
+ERROR Database Connection Failed
+WARNING High Memory Usage
+INFO Scheduled Job Started
+ERROR API Timeout
+WARNING Disk Space Low
+INFO Process Completed
